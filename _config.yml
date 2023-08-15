@@ -20,7 +20,7 @@ timezone:
 
 title: Sasha Legrand # the main title
 
-tagline: Game Developer - Portfolio # it will display as the sub-title
+tagline: Developer C++/C# - Portfolio # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Welcome to my website. I'm Sasha Legrand, a 4th-year Game Development student at Isart Digital! 
@@ -68,7 +68,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: #dark #[light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -78,7 +78,7 @@ theme_mode: dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/avatar/me.jpg"
+avatar: "/assets/public/img/avatar/me.jpg"
 
 # boolean type, the global switch for TOC in posts.
 toc: true

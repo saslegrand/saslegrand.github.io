@@ -5,6 +5,8 @@ icon: fas fa-newspaper
 order: 3
 ---
 
-> [`Click here`](/assets/public/SashaLegrand_CV.pdf) to get the PDF version
+> **English CV** ([`Pdf version`](/assets/public/cv/english-cv.pdf))
+![CV View](/assets/public/cv/english-cv.jpg){: width="100%"}
 
-![CV View](/assets/public/SashaLegrand_CV.png){: width="100%"}
+> **French CV** ([`Pdf version`](/assets/public/cv/french-cv.pdf))
+![CV View](/assets/public/cv/french-cv.png){: width="100%"}

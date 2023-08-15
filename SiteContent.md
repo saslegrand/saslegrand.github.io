@@ -37,3 +37,5 @@ Mettre des images, gifs. Le visuel prime et bien rentrer dans le détail pour ch
 - Lights Out
 - El Gladiator
 - 2048 Remake
+- Graphic effects (voir github)
+- Hydrill Engine
