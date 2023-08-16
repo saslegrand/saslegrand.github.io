@@ -49,6 +49,6 @@ The goal is to gather professionals from varous fields to create fun and accessi
 
 **Programming:** C, C++, C#, .NET, GLSL, Python, Bash\
 **Versioning:** Git, Perforce, Fork, Github Desktop\
-**Game Software:** Unity, Unreal Engine, Godot\
+**Game Software:** Unity, Unreal Engine\
 **Software:** Visual Studio, Rider, Office, PowerPoint, Excel\
 **Libraries:** OpenGL, ImGui, GLFW, SDL
