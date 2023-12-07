@@ -4,6 +4,16 @@ icon: fa-solid fa-file
 order: 2
 ---
 
+## **Skills**
+---
+
+**Programming:** C, C++, C#, .NET, GLSL, Python, Bash\
+**Versioning:** Git, Perforce, Fork, Github Desktop\
+**Game Software:** Unity, Unreal Engine\
+**Software:** Visual Studio, Rider, Office, PowerPoint, Excel\
+**Libraries:** OpenGL, ImGui, GLFW, SDL
+
+
 ## **Experience**
 ---
 
@@ -43,12 +53,3 @@ The goal is to gather professionals from varous fields to create fun and accessi
 | ![paul-langevin-logo](/assets/public/img/logos/paul-langevin-logo.png) |
 |:---------------------------------------:|
 | **High School Diploma** <br/> **Social and Economic option with Honors** <br/> ***Lycée Paul Langevin***, *June 2018* |
-
-## **Skills**
----
-
-**Programming:** C, C++, C#, .NET, GLSL, Python, Bash\
-**Versioning:** Git, Perforce, Fork, Github Desktop\
-**Game Software:** Unity, Unreal Engine\
-**Software:** Visual Studio, Rider, Office, PowerPoint, Excel\
-**Libraries:** OpenGL, ImGui, GLFW, SDL
